@@ -1,0 +1,12 @@
+{
+  "name": "exercise_03_name_cases",
+  "version": "1.0.0",
+  "description": "",
+  "main": "name_cases.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
