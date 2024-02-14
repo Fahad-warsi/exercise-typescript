@@ -6,7 +6,6 @@
 //I've stored a number and message in variables named "favoriteNumber" and "message", and then I'll print that message.
 
 let favoriteNumber: number = 10; //store favorite number
-
 let message: string = "Your favorite number is "; //store message
 
 console.log(`${message} ${favoriteNumber}`); // print message & favourite number.
