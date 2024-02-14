@@ -1,8 +1,8 @@
 {
-  "name": "exercise_09_favorite_number",
+  "name": "exercise_10_adding_comment",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
