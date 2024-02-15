@@ -2,13 +2,7 @@
 // 18. Seeing the World: Think of at least five places in the world you’d like to visit.
 // • Store the locations in a array. Make sure the array is not in alphabetical order.
 //let places: string[] = ["Paris", "Dubai", "New York", "Barcelon", "Istanbul"];
-let places = [
-    "himalaya",
-    "andes",
-    "tierra del fuego",
-    "labrador",
-    "guam",
-];
+let places = ["Paris", "Dubai", "New York", "Barcelona", "Rome"];
 // • Print your array in its original order.
 console.log("Original order.....");
 console.log(places);
