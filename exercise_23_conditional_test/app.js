@@ -1,10 +1,8 @@
-"use strict";
-// 23. let car = 'subaru';
 // console.log("Is car == 'subaru'? I predict True.")
 // console.log(car == 'subaru')
 // • Look closely at your results, and make sure you understand why each line evaluates to True or False.
 // • Create at least 10 tests. Have at least 5 tests evaluate to True and another 5 tests evaluate to False.
-let car = "subaru";
+var car = "subaru";
 //at least 5 tests evaluate to True
 console.log(car == "subaru" ? true : false); // car value is equal to subaru...
 console.log(car === "subaru" ? true : false); //car value & its data type is equal to subaru
